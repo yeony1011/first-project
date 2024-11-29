@@ -12,3 +12,5 @@ Currently, two official plugins are available:
 ### [04 - 프로젝트 명령어 사용하기](https://ordinary-mailman-de7.notion.site/04-14aee4b4de2480ce8ee7f44dd4338bce?pvs=4)
 
 ### [05 - 리액트 프로젝트 살펴보기](https://ordinary-mailman-de7.notion.site/05-14cee4b4de2480109b78f61341c70d1f?pvs=4)
+
+### [06 - 컴포넌트 기초](https://ordinary-mailman-de7.notion.site/06-14dee4b4de2480b1be3cee880f6d2af2?pvs=4)
