@@ -14,3 +14,5 @@ Currently, two official plugins are available:
 ### [05 - 리액트 프로젝트 살펴보기](https://ordinary-mailman-de7.notion.site/05-14cee4b4de2480109b78f61341c70d1f?pvs=4)
 
 ### [06 - 컴포넌트 기초](https://ordinary-mailman-de7.notion.site/06-14dee4b4de2480b1be3cee880f6d2af2?pvs=4)
+
+### [07 - JSX 문법 기초](https://ordinary-mailman-de7.notion.site/07-JSX-150ee4b4de2480bab5eaf90e10aedb69?pvs=4)
